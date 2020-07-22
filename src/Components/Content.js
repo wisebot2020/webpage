@@ -14,7 +14,7 @@ function Content() {
             <Container>
                 <h1>Dummy Bots</h1>
                 <p>
-                You can use us to have a demo of how we WORK!
+                You can use us to have a demo of how we WORK!!!!!!
                 </p>
                 <Row>
                     <Col xs={1} />
